@@ -1,0 +1,5 @@
+python-dotenv
+transformers
+langchain
+openai==1.11.1
+langchain-community
